@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Jira Assistant
+# 🧠 SprintTrack AI-Powered Jira Assistant
 
 A Streamlit-based dashboard that integrates Jira and OpenAI to deliver AI-driven insights and automation for Agile teams. Features include sprint summaries, natural-language Q&A (with RAG), backlog refinement, release notes, test-case generation, risk analysis, retrospectives, ticket triage, estimation coaching, and onboarding documentation.
 
